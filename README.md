@@ -1,4 +1,6 @@
 # HOTEL_MANAGEMENT_BUSINESS
+![image](https://github.com/user-attachments/assets/c3d0a673-4c66-4d9d-8d62-2ed3b7429bb4)
+
 # Hotel Management System - SQL Project
 
 This project is a mini hotel management system implemented using SQL. It provides a comprehensive schema for managing hotel data, including hotels, rooms, guests, bookings, payments, employees, and services. It also includes sample data and commonly used queries for data analysis.
