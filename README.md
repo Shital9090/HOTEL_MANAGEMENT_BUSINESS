@@ -58,7 +58,7 @@ Refer to `scema.png` for a visual representation of table relationships.
  
 ## Queries and Visualizations
 1. List all available rooms along with their hotel names and prices.
-![IMAGE](https://github.com/Shital9090/HOTEL_MANAGEMENT_BUSINESS/blob/main/hotel_code_output/1.png)
+![room](https://github.com/Shital9090/HOTEL_MANAGEMENT_BUSINESS/blob/main/hotel_code_output/1.png)
 
  2. Which guests have booked rooms, and what are their check-in and check-out dates?
 ![IMAGE](https://github.com/Shital9090/HOTEL_MANAGEMENT_BUSINESS/blob/main/hotel_code_output/2.png)
