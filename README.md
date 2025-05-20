@@ -76,13 +76,13 @@ Refer to `scema.png` for a visual representation of table relationships.
  ![rating](https://github.com/Shital9090/HOTEL_MANAGEMENT_BUSINESS/blob/main/hotel_code_output/6.png)
 
  7. Which rooms are booked and not currently available?
- ![booked](https://github.com/Shital9090/HOTEL_MANAGEMENT_BUSINESS/blob/main/hotel_code_output/7.png)
+![booked](https://github.com/Shital9090/HOTEL_MANAGEMENT_BUSINESS/blob/main/hotel_code_output/7.png)
 
  8. How many guests have used spa services?
- ![spa](https://github.com/Shital9090/HOTEL_MANAGEMENT_BUSINESS/blob/main/hotel_code_output/8.png)
+![spa](https://github.com/Shital9090/HOTEL_MANAGEMENT_BUSINESS/blob/main/hotel_code_output/8.png)
 
  9. List the total income generated from bookings for each hotel.
- ![each hotel](https://github.com/Shital9090/HOTEL_MANAGEMENT_BUSINESS/blob/main/hotel_code_output/9.png)
+![each hotel](https://github.com/Shital9090/HOTEL_MANAGEMENT_BUSINESS/blob/main/hotel_code_output/9.png)
 
  10. Which guest has spent the most on room bookings?
-  ![most](https://github.com/Shital9090/HOTEL_MANAGEMENT_BUSINESS/blob/main/hotel_code_output/10.png)
+![most](https://github.com/Shital9090/HOTEL_MANAGEMENT_BUSINESS/blob/main/hotel_code_output/10.png)
