@@ -58,31 +58,32 @@ Refer to `scema.png` for a visual representation of table relationships.
  
 ## Queries and Visualizations
  1. List all available rooms along with their hotel names and prices.
+
  ![room](https://github.com/Shital9090/HOTEL_MANAGEMENT_BUSINESS/blob/main/hotel_code_output/1.png)
 
- 2. Which guests have booked rooms, and what are their check-in and check-out dates?
+ 3. Which guests have booked rooms, and what are their check-in and check-out dates?
  ![book](https://github.com/Shital9090/HOTEL_MANAGEMENT_BUSINESS/blob/main/hotel_code_output/2.png)
 
- 3. What is the total amount paid by each guest?
+ 4. What is the total amount paid by each guest?
  ![paid](https://github.com/Shital9090/HOTEL_MANAGEMENT_BUSINESS/blob/main/hotel_code_output/3.png)
 
- 4. Which services were used by guest 'John Doe'?
+ 5. Which services were used by guest 'John Doe'?
 ![guest](https://github.com/Shital9090/HOTEL_MANAGEMENT_BUSINESS/blob/main/hotel_code_output/4.png)
 
- 5. What are the details of employees working at the hotel 'Seaside Resort'?
+ 6. What are the details of employees working at the hotel 'Seaside Resort'?
  ![employees](https://github.com/Shital9090/HOTEL_MANAGEMENT_BUSINESS/blob/main/hotel_code_output/5.png)
 
- 6. Find the average rating of all hotels.
+ 7. Find the average rating of all hotels.
  ![rating](https://github.com/Shital9090/HOTEL_MANAGEMENT_BUSINESS/blob/main/hotel_code_output/6.png)
 
- 7. Which rooms are booked and not currently available?
+ 8. Which rooms are booked and not currently available?
 ![booked](https://github.com/Shital9090/HOTEL_MANAGEMENT_BUSINESS/blob/main/hotel_code_output/7.png)
 
- 8. How many guests have used spa services?
+ 9. How many guests have used spa services?
 ![spa](https://github.com/Shital9090/HOTEL_MANAGEMENT_BUSINESS/blob/main/hotel_code_output/8.png)
 
- 9. List the total income generated from bookings for each hotel.
+ 10. List the total income generated from bookings for each hotel.
 ![each hotel](https://github.com/Shital9090/HOTEL_MANAGEMENT_BUSINESS/blob/main/hotel_code_output/9.png)
 
- 10. Which guest has spent the most on room bookings?
+ 11. Which guest has spent the most on room bookings?
 ![most](https://github.com/Shital9090/HOTEL_MANAGEMENT_BUSINESS/blob/main/hotel_code_output/10.png)
